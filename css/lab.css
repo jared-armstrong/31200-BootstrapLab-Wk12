@@ -20,4 +20,6 @@
 
 .cordionContainer {
     width: 600px;
+    position: absolute;
+    right: 120px;
 }
