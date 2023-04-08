@@ -3,8 +3,12 @@
     margin: 20px;
 }
 
+.button-container {
+    width: 240px;
+}
+
 .carousel {
-    width: 600px;
+    width: 500px;
     padding: 20px;
     background-color: lightgrey;
     height: auto;
@@ -19,7 +23,5 @@
 }
 
 .cordionContainer {
-    width: 600px;
-    position: absolute;
-    right: 120px;
+    width: 400px;
 }
